@@ -12,7 +12,7 @@ bleach==5.0.0
     # via readme-renderer
 build==0.7.0
     # via -r requirements.in
-certifi==2021.10.8
+certifi==2023.5.7
     # via requests
 charset-normalizer==2.0.12
     # via requests
@@ -150,7 +150,7 @@ pyyaml-env-tag==0.1
     # via mkdocs
 readme-renderer==35.0
     # via twine
-requests==2.27.1
+requests==2.33.0
     # via
     #   requests-toolbelt
     #   twine
